@@ -1,19 +1,21 @@
 body {
     margin: 0;
     text-align: center;
+    background: #1F2937;
+    font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff;
 }
 
 #top{
     background-color: #6943FF;
     justify-items: center;
+    margin-bottom: 35px;
 }
 
 h1{
-    font-family: Inter, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
     font-size: 28px;
     line-height: 38px;
-    color: #ffffff;
     padding-top: 40px;
 }
 
@@ -33,4 +35,31 @@ button{
     height: 45;
     border-radius: 5px;
     border: none;
+}
+
+/* .bottom{
+
+} */
+
+.units{
+    width: 500px;
+    height: 100px;
+    border-top-left-radius: 4.68px;
+    background: #273549;
+    margin: 25px auto;
+    justify-items: center;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #CCC1FF;
+    padding-top: 30px;
+}
+
+p{
+    padding-bottom: 20px;
+    font-weight: 400;
+    font-size: 14px;
 }
