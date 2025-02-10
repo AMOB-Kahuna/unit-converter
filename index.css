@@ -27,6 +27,10 @@ input{
     border-radius: 5px;
     border: 2px solid #B295FF;
     background-color: #6943FF;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
 }
 
 button{
